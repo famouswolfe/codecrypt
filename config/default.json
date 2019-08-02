@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://famous123:famous123@codecrypt-pagno.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://famous123:famous123@codecrypt-pagno.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
