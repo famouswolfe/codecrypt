@@ -30,6 +30,6 @@
   "devDependencies": {
     "concurrently": "^5.0.0",
     "nodemon": "^1.19.1",
-    "mem": ">=4.0.0"
+    "mem": ">=6.0.0"
   }
 }
