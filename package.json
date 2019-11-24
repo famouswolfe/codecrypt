@@ -24,12 +24,12 @@
     "express-validator": "^6.2.0",
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.7.8",
+    "mongoose": "^5.7.12",
     "request": "^2.88.0"
   },
   "devDependencies": {
     "concurrently": "^5.0.0",
-    "nodemon": "^1.19.1",
-    "mem": ">=6.0.0"
+    "mem": ">=6.0.0",
+    "nodemon": "^2.0.0",
   }
 }
