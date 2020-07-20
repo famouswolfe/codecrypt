@@ -22,7 +22,7 @@
     "config": "^3.2.3",
     "express": "^4.17.1",
     "express-validator": "^6.2.0",
-    "gravatar": "^1.8.0",
+    "gravatar": "^1.8.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.6",
     "request": "^2.88.0"
